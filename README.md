@@ -1,8 +1,11 @@
-# Piano-Tiles 别踩白块了
+# Piano-Tiles 别踩白块了 python
 <br>
 作者：电脑初哥
 <br>
+编程语言:python
+<br>
 配合游戏 http://www.4399.com/flash/154247_3.htm
+<br>
 bilibili UP主 <a href="https://space.bilibili.com/231019106/" target="_blank" title="电脑初哥">电脑初哥</a>
 <br>
 推特 <a href="https://twitter.com/xhrzg2017" target="_blank" title="xhrzg2017">xhrzg2017</a>
